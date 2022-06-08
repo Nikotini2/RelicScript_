@@ -7,6 +7,7 @@ Sobald Sie die Anwendung starten ist diese ausgeschaltet und kann mit einem Klic
 Ein Reliktname in Warframe besteht immer aus zwei Teilen:
 1. Eine von vier Bezeichnungen (Axi, Lith, Meso und Neo), welche die Art des RElikts bestimmen.
 2. Einem Buchstaben und einer Zahl (meistens 1 bis 18).
+3. 
 Ein Reliktname würde z.B. so aussehen: "Meso B11"
 Um ein Relikt hinzu zu fügen wählt man einfach die Art des Relikts im Drop down menu aus und schreibt dessen Bezeichnugn (z.B. B11) in das Eingabefeld dahinter und klickt auf "Add New Relic"
 Die Anwendung verfügt auch über eine Speichern und Laden Funktion. Dazu dienen die "Save" und "Load" Buttons. Im Verzeichnis der Anwendung befindet sich eine Textdatei namens relicsave.txt. Dies ist eine Beispiel Sicherung und auch die Textdatei in welcher die Relikte gespeichert werden wenn man "save" drückt. Unter den zwei Buttons wird angezeigt welches Relikt als letztes gefunden wurde (daher auch "nothing yet"). Rechts daneben befinden sich vier Buttons welche die vier Reliktarten zeigen. Diese Buttons sind dafür da um die Liste nach einer Art Relikt zu sortieren. Darunter kann man den Timer einstellen (Eingabe in Sekunden). Rechts über eben erwähnten Eingabefeld für den Timer steht eine kleine null. Dies ist ein Feature welches noch nicht in die UI implementiert wurde. Hierbei handelt es sich einfach um einen Cooldown für den Timer nachdem ein Relikt gefunden wurde um fälschliche Doppeleinträge zu vermeiden.
